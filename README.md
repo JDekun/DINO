@@ -1,3 +1,4 @@
+<a href="https://github.com/JDekun/DINO" target="_parent"><img src="https://badgen.net/badge/icon/DINO?icon=github&label=GitHub" alt="GitHub"/></a>
 # Self-Supervised Vision Transformers with DINO
 
 PyTorch implementation and pretrained models for DINO. For details, see **Emerging Properties in Self-Supervised Vision Transformers**.  
